@@ -32,8 +32,17 @@ I am interested in AI and machine learning and their role in shaping the future 
 ### 📌 Polaris Art - [here](https://github.com/chungkaley/Polaris-Art)
 - **Description:** Implemented an art-sharing website using HTML, JavaScript, and CSS, where users can generate a prompt and scroll through an art gallery that highlights the artist’s name and social media platforms.
 - **Tech Stack:** HTML, CSS, JavaScript
-  
+
+### 📌 Column-Drift-Ratio-Prediction - [here](https://github.com/kkaushik03/Column-Drift-Ratio-Prediction)
+- **Description:** Designed a response prediction model for Column Drift Ratio using LASSO regression and Generalized Additive Models in R, enhancing earthquake impact prediction accuracy by bypassing Intensity Measure calculations 
+- **Tech Stack:** R
+
+### 📌 The Root Remedy - [more details coming soon](https://github.com/rawspinach155/TheRootRemedy).
+- **Description:** Developed a dummy dataset to train a chatbox that provides customers with personalized nutrition tips, information about gut health, and interactive chat assistance for an iOS application.
+- **Tech Stack:** AWS, Python, Jupyter, BERT, PyTorch, eCornell
+
 ---
+  
 ---
 
 ## 📫 How to Reach Me:
