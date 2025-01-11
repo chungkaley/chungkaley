@@ -1,7 +1,7 @@
 ## Hi, I'm Kaley. 👋
 
-🎓 Sophomore at Cypress College, studying Computer Science
-🔭 Aspiring Software Engineer
+🎓 Sophomore at Cypress College, studying Computer Science  
+🔭 Aspiring Software Engineer  
 
 I am interested in AI and machine learning and their role in shaping the future of technology. Currently, I am interning at The Root Remedy, where I am developing a generative AI-powered iOS app that provides nutrition advice and educates users on gut health. I have strong skills in problem-solving, coding, data analysis, and research, and I’m eager to continue refining these abilities. I’m actively seeking new internship opportunities, particularly in AI and machine learning. Let me know!
 
