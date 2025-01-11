@@ -8,10 +8,10 @@ I am interested in AI and machine learning and their role in shaping the future 
 ---
 
 ## 🎯 Featured Project: ResuME Mobile Application
-**What We Did:** Used Swift in Xcode to create a mobile app that takes the user’s professional experience and skills and produces a resume
-**Tools:** [Key technologies used]  Swift, Xcode
-**Result:** Implemented user login and navigation to different pages with tips for resume and interviews, user profile, and a form to input user’s experience (i.e. work history, educational background, certifications)
-**Curious?** See the full project [here](https://github.com/chungkaley/Final-Project).  
+-**What We Did:** Used Swift in Xcode to create a mobile app that takes the user’s professional experience and skills and produces a resume.
+-**Tools:** [Key technologies used]  Swift, Xcode
+-**Result:** Implemented user login and navigation to different pages with tips for resume and interviews, user profile, and a form to input user’s experience (i.e. work history, educational background, certifications)
+-**Curious?** See the full project [here](https://github.com/chungkaley/Final-Project).  
 
 ---
 
@@ -29,30 +29,27 @@ I am interested in AI and machine learning and their role in shaping the future 
 ---
 
 ## 🚀 Projects:
-### 📌 Polaris Art - [Final Project](https://github.com/chungkaley/Final-Project)
-- **Description:** A comprehensive tool for [analyzing and streamlining code functionality].  
-- **Tech Stack:** Java, Python, MySQL  
-- **Learnings:** Improved debugging skills and database integration.
+### 📌 Polaris Art - [here](https://github.com/chungkaley/Polaris-Art)
+- **Description:** Implemented an art-sharing website using HTML, JavaScript, and CSS, where users can generate a prompt and scroll through an art gallery that highlights the artist’s name and social media platforms.
+- **Tech Stack:** HTML, CSS, JavaScript
+  
+---
+---
 
-### 📌 [Project Name 2]
-- **Description:** [Brief description of the project and what it does].  
-- **Tech Stack:** [Technologies used].  
-- **Learnings:** [Key takeaways or skills gained].  
+## 📫 How to Reach Me:
+- **Email:** [chungkaley@gmail.com](mailto:chungkaley@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/kaleychung](https://www.linkedin.com/in/kaleychung)  
+
+---
+
+## ✨ Fun Fact:
+I like to eat ice cream with a fork.  
+
+---
+
+## 📊 GitHub Stats:
+Coming soon!
 
 ---
 
 
-<!--
-**chungkaley/chungkaley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
