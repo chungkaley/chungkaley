@@ -8,10 +8,10 @@ I am interested in AI and machine learning and their role in shaping the future 
 ---
 
 ## 🎯 Featured Project: ResuME Mobile Application
--**What We Did:** Used Swift in Xcode to create a mobile app that takes the user’s professional experience and skills and produces a resume.
--**Tools:** [Key technologies used]  Swift, Xcode
--**Result:** Implemented user login and navigation to different pages with tips for resume and interviews, user profile, and a form to input user’s experience (i.e. work history, educational background, certifications)
--**Curious?** See the full project [here](https://github.com/chungkaley/Final-Project).  
+- **What We Did:** Used Swift in Xcode to create a mobile app that takes the user’s professional experience and skills and produces a resume.  
+- **Tools:** Swift, Xcode  
+- **Result:** Implemented user login and navigation to different pages with tips for resume building and interviews, a user profile, and a form to input user experience (e.g., work history, educational background, certifications).  
+- **Curious?** See the full project [here](https://github.com/chungkaley/Final-Project).  
 
 ---
 
