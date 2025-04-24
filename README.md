@@ -37,7 +37,7 @@ I am interested in AI and machine learning and their role in shaping the future 
 - **Description:** Designed a response prediction model for Column Drift Ratio using LASSO regression and Generalized Additive Models in R, enhancing earthquake impact prediction accuracy by bypassing Intensity Measure calculations 
 - **Tech Stack:** R
 
-### 📌 The Root Remedy - [more details coming soon](https://github.com/rawspinach155/TheRootRemedy).
+### 📌 The Root Remedy - [here](https://github.com/rawspinach155/TheRootRemedy).
 - **Description:** Developed a dummy dataset to train a chatbox that provides customers with personalized nutrition tips, information about gut health, and interactive chat assistance for an iOS application.
 - **Tech Stack:** AWS, Python, Jupyter, BERT, PyTorch, eCornell
 
